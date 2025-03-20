@@ -1,10 +1,8 @@
-# QEMU Go Controller
 
-## Overview
 
 This project demonstrates how to programmatically control a QEMU virtual machine using Go and QEMU Machine Protocol (QMP). The Go application launches a QEMU VM, establishes a QMP connection, sends control commands (e.g., start, query status, shutdown), and handles responses.
 
-## Features
+## what it does 
 
 - Launch a QEMU virtual machine
 - Connect to QEMU using QMP
